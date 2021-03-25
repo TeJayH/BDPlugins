@@ -17,16 +17,16 @@ module.exports = (() =>
 					name: "TeJay (Base by Metalloriff)",
 				}
 			],
-			version: "2.1.5",
+			version: "2.1.6",
 			description: "Literally useless, toxic cancer. Triggers are [b$ - Replace B's with the B emoji, block$ - Replace letters with block script, brail$ - Replace letters with brail, bubble$ - Replace letters and numbers with with bubble script, clapclap$ - inserts clap emojis between words, fancy$ - Replace letters with handwritten script, goth$ - Replace letters with the font you'd see on a 40yr olds midlife crisis tattoo, morse$ - Replace letters and numbers with morse code, owo$ - owoifys the text and adds a random UwU face, ra$ - Replaces letters and numbers with the emoji version, reverse$ - Reverses the text, $superclapclap - Adds a clap after every letter, woke$ - TaLkS LiKe tHis]",		},
 		changelog:
 		[
 			{
-				title: "2.1.5",
-				type: "modified",
+				title: "2.1.6",
+				type: "Nothing",
 				items:
 				[
-					"Changed morse to use . and - to be translatable by online tools"
+					"First Offical update, Checking autoupdate feature."
 				]
 			}
 		]
